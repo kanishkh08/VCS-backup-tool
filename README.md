@@ -6,16 +6,16 @@ A complete **frontend + backend** web application that uses Git as a versioning 
 
 ## Team Members
 
-| Member | Name | URN | Role | Contribution |
-|--------|------|-----|------|-------------|
-| Member 1 |Jeet Tanwar  | Backend Developer | `backend/app.py`, `run.py` |
-| Member 2 |kanishk patel| Frontend UI | `frontend/templates/index.html` (HTML + CSS) |
-| Member 3 |kajal kashyap |PPT & synopsis) |
-| Member 4 |kamlesh mishra | Config & Docs | `config.py`, `scheduler.py`, `README.md` |
+| Member | Name | Role | Contribution |
+|--------|------|-----|-------------|
+| Member 1 |Jeet Tanwar  | Backend Developer , `backend/app.py`, `run.py` |
+| Member 2 |kanishk patel| Frontend UI , `frontend/templates/index.html` (HTML + CSS) |
+| Member 3 |kajal kashyap |PPT & synopsis |
+| Member 4 |kamlesh mishra | Config & Docs ,`config.py`, `scheduler.py`, `README.md` |
 
 **Project Guide:** Ms. Ishita Tandon — Assistant Professor, Data & Infrastructure (SoCS), IILM University
 
----
+-
 
 ## Features
 
