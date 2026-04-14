@@ -8,10 +8,10 @@ A complete **frontend + backend** web application that uses Git as a versioning 
 
 | Member | Name | URN | Role | Contribution |
 |--------|------|-----|------|-------------|
-| Member 1 (Lead) | ________________ | ________________ | Backend Developer | `backend/app.py`, `run.py` |
-| Member 2 | ________________ | ________________ | Frontend UI | `frontend/templates/index.html` (HTML + CSS) |
-| Member 3 | ________________ | ________________ | Frontend JS | `frontend/templates/index.html` (JavaScript) |
-| Member 4 | ________________ | ________________ | Config & Docs | `config.py`, `scheduler.py`, `README.md` |
+| Member 1 |Jeet Tanwar  | Backend Developer | `backend/app.py`, `run.py` |
+| Member 2 |kanishk patel| Frontend UI | `frontend/templates/index.html` (HTML + CSS) |
+o+| Member 3 |kajal kashyap |               |PPT & synopsis) |
+| Member 4 |kamlesh mishra | Config & Docs | `config.py`, `scheduler.py`, `README.md` |
 
 **Project Guide:** Ms. Ishita Tandon — Assistant Professor, Data & Infrastructure (SoCS), IILM University
 
