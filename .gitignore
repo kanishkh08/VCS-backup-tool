@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Flask
+instance/
+.webassets-cache
+flask_session/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Git backup config files (these are per-user)
+.git_backup_config.json
+.gitvault_scheduler.json
+
+# Logs
+*.log
+gitvault_backup.log
+
+# Generated scheduler scripts
+run_backup.sh
+run_backup.bat
+
+# IDE
+.idea/
+*.swp
+*.swo
